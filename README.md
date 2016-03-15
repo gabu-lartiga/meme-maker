@@ -27,7 +27,7 @@ que viene previamente formateada en estilo meme (Impact, centro blanco, borde ne
 - Abre el archivo `MemeMaker.html` en tu explorador
 - Presiona el botón `Seleccionar Archivo` para añadir una nueva imagen
 - Selecciona tu imagen
-- Añade el texto que deseas aparezca en la parte superior bajo el cuadro de texto `Top Line`
-- Añade el texto que deseas aparezca en la parte inferior bajo el cuadro de texto `Bottom Line`
+- Añade el texto que deseas que aparezca en la parte superior bajo el cuadro de texto `Top Line`
+- Añade el texto que deseas que aparezca en la parte inferior bajo el cuadro de texto `Bottom Line`
 - Usa el botón `save` para abrir una nueva pestaña con tu meme
 - Guarda la imagen usando `Click derecho > Guardar imagen como...`
